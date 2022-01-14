@@ -50,7 +50,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 premium-discord.com
 0.0.0.0 staff-discord.net
 0.0.0.0 yummy-nitro.com
-0.0.0.0 ww1. dicsordapp.com
+0.0.0.0 ww1.dicsordapp.com
 0.0.0.0 ww1.discordapp.org
 0.0.0.0 wwdiscord.com
 0.0.0.0 ww16.discordcanary.com
